@@ -26,3 +26,6 @@ The initial schematic and PCB design are ready. The next step is to review the d
 ## Links
 
 - [Forge Project](https://forge.hackclub.com/projects/4396)
+
+## BOM 
+[BMO](./BOM_BITSHIFT_2026-11-03%20(1).csv)
