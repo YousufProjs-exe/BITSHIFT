@@ -12,6 +12,9 @@ I'm making the card from scratch in EasyEDA, so this project is also a way for m
 
 - SCH_BITSHIFT_2026-11-03.json [SCH](./SCH_BITSHIFT_2026-11-03.json) — Schematic
 - PCB_PCB_BITSHIFT_2026-11-03.json [PCB](./PCB_PCB_BITSHIFT_2026-11-03.json) — PCB design
+- 
+- Sheet_1_2026-11-03.svg [SCH](./Sheet_1_2026-11-03.svg) — Schematic
+- PCB_BITSHIFT_2026-11-03.svg [PCB](./PCB_BITSHIFT_2026-11-03.svg) — PCB design
 
 ## Build using 
 
