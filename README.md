@@ -3,6 +3,7 @@
 BITSHIFT is my attempt at making my own NFC business card.
 The idea is simple: tap the card with a phone and open my portfolio. I'm designing the PCB myself, using an NFC chip and a custom antenna.
 I'm making the card from scratch in EasyEDA, so this project is also a way for me to learn more about PCB design and NFC.
+![gerber](./screenshots/Gerber.png)
 ![front](./screenshots/front.png)
 ![back](./screenshots/back.png)
 ![pcb](./screenshots/pcb.png)
