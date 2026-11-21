@@ -1,0 +1,6 @@
+﻿ID	Name	Designator	Footprint	Quantity	Manufacturer Part	Manufacturer	Supplier	Supplier Part	Price	link
+"1"	"25X48MM_NFC_ANTENNA"	"1"	"25X48MM_NFC_ANTENNA"	"1"	""	""	""	""	""	""
+"2"	"220nF"	"C1"	"C0402"	"1"	"C1005X5R0J224KT000F"	"TDK"	"LCSC"	"C76593"	"0.011"	"https://item.szlcsc.com/15869.html"
+"3"	"150120SS75000"	"LED1"	"LED1206-RD_1"	"1"	"150120SS75000"	"Wurth(伍尔特)"	"LCSC"	"C6390402"	""	"https://atta.szlcsc.com/upload/public/pdf/source/20220309/C7DDDD185D87D9D0C40C10C0E594F74D.pdf"
+"4"	"47Ω"	"R1"	"R0603"	"1"	"0603WAF470JT5E"	"UNI-ROYAL(厚声)"	"LCSC"	"C23182"	"0.002"	"https://www.mouser.in/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_11-1669912.pdf"
+"5"	"NT3H2111W0FHKH"	"U1"	"XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH"	"1"	"NT3H2111W0FHKH"	"NXP(恩智浦)"	"LCSC"	"C710403"	"0.565"	"https://www.nxp.com/docs/en/data-sheet/NT3H2111_2211.pdf"
